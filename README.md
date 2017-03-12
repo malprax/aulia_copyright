@@ -1,6 +1,6 @@
 # AuliaCopyright
 
-This is only testing making gem 
+This is only testing making gem
 
 ## Installation
 
@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-@copyright = LogoAulia::Renderer.copyright 'Aulia Sabril', 'All Rights Reserved'
+AuliaCopyright::Renderer.copyright 'Aulia Sabril', 'All Rights Reserved'
 ```
 
 ## Development
